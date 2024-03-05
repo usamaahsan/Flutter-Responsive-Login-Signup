@@ -5,7 +5,7 @@ This is the UI for Login and Signup screens. Add functionalities as per your own
 # Mobile UI:
 <p align="center">
   <img src="assets/images/MobileLogin.png" width="350" title="hover text">
-  <img src="assets/images/MobileLogin.png" width="350" alt="accessibility text">
+  <img src="assets/images/MobileSignup.png" width="350" alt="accessibility text">
 </p>
 
 # Large Screens UI:
