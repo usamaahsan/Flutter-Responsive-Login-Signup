@@ -1,16 +1,13 @@
-# materialloginsignup
+# Flutter Responsive Login and Signup UI 
 
-A new Flutter project.
+This is the UI for Login and Signup screens. Add functionalities as per your own logic 
 
-## Getting Started
+# Mobile UI:
+<p align="center">
+  <img src="assets/images/MobileLogin.png" width="350" title="hover text">
+  <img src="assets/images/MobileLogin.png" width="350" alt="accessibility text">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Large Screens UI:
+  <img src="assets/images/LargeScreen1.png" width="700" title="hover text">
+  <img src="assets/images/LargeScreen2.png" width="700" alt="accessibility text">
